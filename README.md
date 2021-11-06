@@ -15,3 +15,7 @@ RTCPeerConnection: stream audio and video between users.
 
 
 Real time communication with WebRTC
+
+Web Server for Chrome What is it?
+
+A Web Server for Chrome, serves web pages from a local folder over the network, using HTTP. Runs offline. If you develop web app using browser-datastore, Cookie and Web Storage, you should need web server. This extension behave as Web Server easily.
