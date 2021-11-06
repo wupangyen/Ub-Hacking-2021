@@ -22,3 +22,5 @@ A Web Server for Chrome, serves web pages from a local folder over the network, 
 
 
 11/6/21 4:46PM got the camera show up on the web page.
+
+4:48 PM start the process when Stream video with RTCPeerConnection
